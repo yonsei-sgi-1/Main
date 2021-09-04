@@ -91,7 +91,7 @@
 
 |               Assignment               | Date Assigned |   Due Date   |    Tutorial  |   Solution   |    Point     |
 |:--------------------------------------:|:-------------:|:------------:|:------------:|:------------:|:------------:|
-| [Assignment 1]                      |  토, 9월 4일  |  토, 9월 11일 | [Video]()  | | 20 |
+| [Assignment 1]                      |  토, 9월 4일  |  토, 9월 11일 | [Video](https://www.loom.com/share/0842b0b7db584dbca9869b53de0b525f)  | | 20 |
 
 
 
