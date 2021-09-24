@@ -28,7 +28,7 @@
 |  1  |  9월 4일            |     환경설정     |    [Lecture 1]     |   [Assignment 1]| [FAQ 1] |
 |  2  |  9월 11일           |     변수        |  [Lecture 2], [Practice 2]     | [Assignment 1]|  |
 | 휴일   | 9월 18일 | | |
-|  3  |  9월 25일           |     문자열, Collection |  [Lecture 3], [Practice 3]  [Assignment 3]   ||
+|  3  |  9월 25일           |     문자열, Collection |  [Lecture 3], [Practice 3]   |[Assignment 3]|
 | 휴일   | 10월 2일 | | |
 | 휴일   | 10월 9일 | | |
 |  4  |  10월 16일          |    조건문,반복문    |  [Lecture 4], [Practice 4]     |   |
