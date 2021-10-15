@@ -31,7 +31,7 @@
 |  3  |  9월 25일           |     문자열, Collection |  [Lecture 3], [Practice 3]   |[Assignment 3]|
 | 휴일   | 10월 2일 | | |
 | 휴일   | 10월 9일 | | |
-|  4  |  10월 16일          |    조건문,반복문    |  [Lecture 4], [Practice 4]     |   |
+|  4  |  10월 16일          |    조건문,반복문    |  [Lecture 4], [Practice 4]     |[Assignment 4]|
 |  5  |  10월 23일          |    함수, 클래스     | [Lecture 5], [Practice 5]     |   |  |
 |  6  |  10월 30일          |    데이터 수집      | [Lecture 6], [Practice 6]  |  | |
 |  7  |  11월 6일           |    데이터 전처리    | [Lecture 7], [Practice 7]     |   |  |
@@ -94,6 +94,7 @@
 | [Assignment 1]                      |  토, 9월 4일  |  토, 9월 11일 | [Video](https://www.loom.com/share/0842b0b7db584dbca9869b53de0b525f)  | | 20 |
 | [Assignment 2]                      |  토, 9월 11일  |  토, 9월 25일 |   | [Video](https://www.loom.com/share/3bf1ad2394aa42a19327de31f2ee3f78) | 20 |
 | [Assignment 3]                      |  토, 9월 25일  |  토, 10월 16일 |   | | 30 |
+| [Assignment 4]                      |  토, 10월 16일  |  토, 10월 23일 |   | | 40 |
 
 
 
