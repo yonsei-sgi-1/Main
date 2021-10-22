@@ -27,12 +27,12 @@
 |:-----:|:----------------:|:--------------:|:------------------:|:-------------:|:---:|
 |  1  |  9월 4일            |     환경설정     |    [Lecture 1]     |   [Assignment 1]| [FAQ 1] |
 |  2  |  9월 11일           |     변수        |  [Lecture 2], [Practice 2]     | [Assignment 1]|  |
-| 휴일   | 9월 18일 | | |
-|  3  |  9월 25일           |     문자열, Collection |  [Lecture 3], [Practice 3]   |[Assignment 3]|
-| 휴일   | 10월 2일 | | |
-| 휴일   | 10월 9일 | | |
-|  4  |  10월 16일          |    조건문,반복문    |  [Lecture 4], [Practice 4]     |[Assignment 4]|
-|  5  |  10월 23일          |    함수, 클래스     | [Lecture 5], [Practice 5]     |   |  |
+| 휴일   | 9월 18일 | | | |
+|  3  |  9월 25일           |     문자열, Collection |  [Lecture 3], [Practice 3]   |[Assignment 3]| |
+| 휴일   | 10월 2일 | | | |
+| 휴일   | 10월 9일 | | | |
+|  4  |  10월 16일          |    조건문,반복문    |  [Lecture 4], [Practice 4]     |[Assignment 4]| |
+|  5  |  10월 23일          |    함수, 클래스     | [Lecture 5], [Practice 5]      |[Assignment 5]| |
 |  6  |  10월 30일          |    데이터 수집      | [Lecture 6], [Practice 6]  |  | |
 |  7  |  11월 6일           |    데이터 전처리    | [Lecture 7], [Practice 7]     |   |  |
 |  8  |  11월 13일          |    데이터 시각화    | [Lecture 8], [Practice 8]     |  |  |
@@ -93,8 +93,9 @@
 |:--------------------------------------:|:-------------:|:------------:|:------------:|:------------:|:------------:|
 | [Assignment 1]                      |  토, 9월 4일  |  토, 9월 11일 | [Video](https://www.loom.com/share/0842b0b7db584dbca9869b53de0b525f)  | | 20 |
 | [Assignment 2]                      |  토, 9월 11일  |  토, 9월 25일 |   | [Video](https://www.loom.com/share/3bf1ad2394aa42a19327de31f2ee3f78) | 20 |
-| [Assignment 3]                      |  토, 9월 25일  |  토, 10월 16일 |   | | 30 |
+| [Assignment 3]                      |  토, 9월 25일  |  토, 10월 16일 |   | [Video](https://www.loom.com/share/249dd9853b2f4525b3f8e0f80a442294) | 30 |
 | [Assignment 4]                      |  토, 10월 16일  |  토, 10월 23일 |   | | 40 |
+| [Assignment 5]                      |  토, 10월 23일  |  토, 10월 30일 |   | | 40 |
 
 
 
