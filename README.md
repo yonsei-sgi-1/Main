@@ -94,7 +94,7 @@
 | [Assignment 1]                      |  토, 9월 4일  |  토, 9월 11일 | [Video](https://www.loom.com/share/0842b0b7db584dbca9869b53de0b525f)  | | 20 |
 | [Assignment 2]                      |  토, 9월 11일  |  토, 9월 25일 |   | [Video](https://www.loom.com/share/3bf1ad2394aa42a19327de31f2ee3f78) | 20 |
 | [Assignment 3]                      |  토, 9월 25일  |  토, 10월 16일 |   | [Video](https://www.loom.com/share/249dd9853b2f4525b3f8e0f80a442294) | 30 |
-| [Assignment 4]                      |  토, 10월 16일  |  토, 10월 23일 |   | | 40 |
+| [Assignment 4]                      |  토, 10월 16일  |  토, 10월 23일 |   | [Video](https://www.loom.com/share/52d11ffa88054cd2934065838268f030)| 40 |
 | [Assignment 5]                      |  토, 10월 23일  |  토, 10월 30일 |   | | 40 |
 
 
