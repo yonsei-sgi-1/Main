@@ -34,7 +34,7 @@
 |  4  |  10월 16일          |    조건문,반복문    |  [Lecture 4], [Practice 4]     |[Assignment 4]| |
 |  5  |  10월 23일          |    함수, 클래스     | [Lecture 5], [Practice 5]      |[Assignment 5]| |
 |  6  |  10월 30일          |    데이터 수집      | [Lecture 6], [Practice 6]  |  | |
-|  7  |  11월 6일           |    데이터 전처리    | [Lecture 7], [Practice 7]     |   |  |
+|  7  |  11월 6일           |    데이터 전처리    | [Lecture 7], [Practice 7]     |[Assignment 7]| |
 |  8  |  11월 13일          |    데이터 시각화    | [Lecture 8], [Practice 8]     |  |  |
 |  9  |  11월 20일          |    빅데이터 분석    | [Lecture 9], [Practice 9]     |   |  |
 |  10 |  11월 27일          |    자동화 앱 개발   | [Lecture 10], [Practice 10]     | |  |
@@ -95,7 +95,8 @@
 | [Assignment 2]                      |  토, 9월 11일  |  토, 9월 25일 |   | [Video](https://www.loom.com/share/3bf1ad2394aa42a19327de31f2ee3f78) | 20 |
 | [Assignment 3]                      |  토, 9월 25일  |  토, 10월 16일 |   | [Video](https://www.loom.com/share/249dd9853b2f4525b3f8e0f80a442294) | 30 |
 | [Assignment 4]                      |  토, 10월 16일  |  토, 10월 23일 |   | [Video](https://www.loom.com/share/52d11ffa88054cd2934065838268f030)| 40 |
-| [Assignment 5]                      |  토, 10월 23일  |  토, 10월 30일 |   | | 40 |
+| [Assignment 5]                      |  토, 10월 23일  |  토, 10월 30일 |   |[Video](https://www.loom.com/share/4e0b91e75bfa4d29868a8318f5448f87) | 40 |
+| [Assignment 5]                      |  토, 11월 06일  |  토, 11월 20일 |   | | 95 |
 
 
 
